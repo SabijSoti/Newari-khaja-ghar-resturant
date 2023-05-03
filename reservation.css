@@ -1,0 +1,106 @@
+.title{
+    font-size: 40px;
+    text-decoration: underline;
+    color: violet;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+     }
+
+    nav{
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    nav ul li{
+      display: inline-block;
+      list-style: none;
+      margin: 10px 30px;
+    }
+
+    nav ul li a{
+     text-decoration: black;
+          font-size: 20px;
+            font-family: "Lucida Console", "Courier New", monospace;
+    }
+
+    /* .imageoooo{
+      opacity: 0.5;
+    } */
+
+    .headdd{
+      font-size: 50px;
+      text-align: center;
+      text-decoration: underline;
+    }
+
+    .imaz{
+
+      opacity: 0.7;
+
+
+    }
+
+    .something{
+      opacity: 1;
+      font-size: 20px;
+      position: absolute;
+      top: 70%;
+      left: 50%;
+      font-size: 60px;
+      transform: translate(-50%,-50%);
+      color: antiquewhite;
+      opacity: 1;
+      /* background-color: lightcyan; */
+      color: blue;
+       padding-bottom: 100px;
+       padding-top: 500px;
+       /* padding-left: 150px;
+       padding-right: 150px; */
+ 
+    }
+
+
+
+    .button-24 {
+      background: #FF4742;
+      border: 1px solid #FF4742;
+      border-radius: 6px;
+      box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+      box-sizing: border-box;
+      color: #FFFFFF;
+      cursor: pointer;
+      display: inline-block;
+      font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+      font-size: 16px;
+      font-weight: 800;
+      line-height: 16px;
+      min-height: 40px;
+      outline: 0;
+      padding: 12px 14px;
+      text-align: center;
+      text-rendering: geometricprecision;
+      text-transform: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: middle;
+      opacity: 1;
+    }
+    
+    .button-24:hover,
+    .button-24:active {
+      background-color: initial;
+      background-position: 0 0;
+      color: #FF4742;
+    }
+    
+    .button-24:active {
+      opacity: .5;
+    }
+
+    .buttona{
+      left: 60%;
+    }
+
